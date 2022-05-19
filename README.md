@@ -1,2 +1,2 @@
 # cybersec
-Scripts/projects regarding cybersec in general. Learning purposes!
+Script drafts regarding cybersec in general.
